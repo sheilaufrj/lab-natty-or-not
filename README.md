@@ -1,15 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal,  da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
@@ -20,32 +11,58 @@ Olá pessoal,  da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Dieta Saudável para seu final de semana
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Dieta sem Glúten e Leite para Sábado e Domingo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHATGPT 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao CHATGPT que criasse uma dieta de 1.500 calorias para meu final de semana com café da manha, almoço, lanche e jantar.
+Essa dieta não poderia ter alimentos com glúten nem com leite. 
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Sábado
+
+Café da manhã
+• 1 fatia de pão sem glúten com homus
+• 1 fatia de melão com chia
+
+Almoço
+• Peito de frango grelhado (120 g)
+• Arroz integral (4 colheres de sopa)
+• Salada de folhas verdes com tomate e azeite
+
+Lanche
+• 1 banana com pasta de castanha de caju (1 colher de sopa)
+
+Jantar
+• Carne moída refogada com cenoura ralada (100 g)
+• Purê de inhame (3 colheres de sopa)
+
+Domingo
+
+Café da manhã
+• Smoothie de manga (200 ml de água, 1/2 manga, 1 colher de sopa de linhaça)
+• 1 ovo cozido
+
+Almoço
+• Filé de peixe grelhado (150 g)
+• Purê de batata-doce (4 colheres de sopa)
+• Salada de rúcula e beterraba com azeite e limão
+
+Lanche
+• 10 castanhas de caju e 1 maçã
+
+Jantar
+• Frango desfiado refogado com abobrinha (100 g)
+• Sopa de lentilha com cenoura (200 ml)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+Desafio de usar o GIThub concluído com sucesso.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)

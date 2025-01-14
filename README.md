@@ -13,18 +13,17 @@
 ```markdown
 # Dieta Saudável para seu final de semana
 
-## 📒 Descrição
+📒 Descrição
 Dieta sem Glúten e Leite para Sábado e Domingo
 
-## 🤖 Tecnologias Utilizadas
+🤖 Tecnologias Utilizadas
 CHATGPT 
 
-## 🧐 Processo de Criação
+🧐 Processo de Criação
 Solicitei ao CHATGPT que criasse uma dieta de 1.500 calorias para meu final de semana com café da manha, almoço, lanche e jantar.
 Essa dieta não poderia ter alimentos com glúten nem com leite. 
 
-
-## 🚀 Resultados
+🚀 Resultados
 Sábado
 
 Café da manhã
@@ -62,7 +61,7 @@ Jantar
 • Sopa de lentilha com cenoura (200 ml)
 
 
-## 💭 Reflexão (Opcional)
+💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 Desafio de usar o GIThub concluído com sucesso.
 ```
